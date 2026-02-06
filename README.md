@@ -1,7 +1,7 @@
 # 🤖 RecruitAI: Intelligent Recruitment Screening Agent
 > **Submitted for: Intel GenAI for GenZ Challenge**
 
-RecruitAI is a high-performance, automated candidate screening platform designed to optimize the hiring process. It leverages **ScaleDown.ai** for token-efficient resume compression and **Gemini 1.5 Flash** for intelligent analysis, bias detection, and ranking.
+RecruitAI is a high-performance, automated candidate screening platform designed to optimize the hiring process. It leverages **ScaleDown.ai** for token-efficient resume compression and **Gemini 2.5 Flash** for intelligent analysis, bias detection, and ranking.
 
 ## 🚀 Key Features
 * **📉 Smart Compression (ScaleDown.ai):** Compresses 10+ page resumes by ~80% without losing critical context, enabling high-volume screening at low latency.
@@ -12,13 +12,13 @@ RecruitAI is a high-performance, automated candidate screening platform designed
 ## 🛠️ Tech Stack
 * **Frontend:** Streamlit (Python)
 * **Optimization:** ScaleDown.ai API (Model: `gemini-2.5-flash`)
-* **Reasoning Engine:** Google Gemini 1.5 Flash
+* **Reasoning Engine:** Google Gemini 2.5 Flash
 * **Data Processing:** Pandas & PyPDF
 
 ## ⚙️ Setup & Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Hetvi/intel-genai-recruiter.git](https://github.com/Hetvi/intel-genai-recruiter.git)
+    git clone [https://github.com/hetvijoshi2005/intel-genai-recruiter.git](https://github.com/hetvijoshi2005/intel-genai-recruiter.git)
     cd intel-genai-recruiter
     ```
 
