@@ -1,0 +1,5 @@
+.env
+__pycache__/
+dummy_resumes/
+*.pdf
+venv/
